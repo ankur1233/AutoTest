@@ -1,0 +1,11 @@
+2020-03-10 18:15:50,461_2020-03-10-logs.log_D:\PythonProject\AutoTest\WebTestCases\TestLogin.py_58>>>INFO:当前运行用例：testcase1
+2020-03-10 18:15:50,462_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_26>>>INFO:访问后台：http://172.16.18.150:8080/safety_tools
+2020-03-10 18:15:57,344_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_38>>>INFO:输入用户名：27401253
+2020-03-10 18:15:57,580_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_48>>>INFO:输入密码：1
+2020-03-10 18:15:57,724_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_58>>>INFO:点击登录
+2020-03-10 18:16:00,893_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_70>>>INFO:获取新页面标题
+2020-03-10 18:16:00,905_2020-03-10-logs.log_D:\PythonProject\AutoTest\WebTestCases\TestLogin.py_70>>>ERROR:错误原因'后台管理系统' != '后台管理系统!'
+- 后台管理系统
++ 后台管理系统!
+?       +
+

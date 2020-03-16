@@ -1,0 +1,4 @@
+2020-03-12 17:27:56,686_2020-03-12-logs.log_D:\PythonProject\AutoTest\TestCasesInterface\TestInterface.py_25>>>INFO:开始
+2020-03-12 17:27:56,686_2020-03-12-logs.log_D:\PythonProject\AutoTest\TestCasesInterface\TestInterface.py_32>>>INFO:开门接口测试开始
+2020-03-12 17:27:56,686_2020-03-12-logs.log_D:\PythonProject\AutoTest\TestCasesInterface\TestInterface.py_33>>>INFO:url: http://192.168.8.10:9999/api/faceEvent
+2020-03-12 17:27:56,687_2020-03-12-logs.log_D:\PythonProject\AutoTest\TestCasesInterface\TestInterface.py_39>>>ERROR:接口异常：can only concatenate str (not "dict") to str

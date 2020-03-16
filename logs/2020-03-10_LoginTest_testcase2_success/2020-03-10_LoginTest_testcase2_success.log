@@ -1,0 +1,7 @@
+2020-03-10 18:16:10,004_2020-03-10-logs.log_D:\PythonProject\AutoTest\WebTestCases\TestLogin.py_74>>>INFO:当前运行用例：testcase2
+2020-03-10 18:16:10,007_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_26>>>INFO:访问后台：http://172.16.18.150:8080/safety_tools
+2020-03-10 18:16:16,958_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_38>>>INFO:输入用户名：27401253
+2020-03-10 18:16:17,183_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_48>>>INFO:输入密码：1
+2020-03-10 18:16:17,310_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_58>>>INFO:点击登录
+2020-03-10 18:16:20,451_2020-03-10-logs.log_D:\PythonProject\AutoTest\web\OpreationLogin.py_70>>>INFO:获取新页面标题
+2020-03-10 18:16:20,459_2020-03-10-logs.log_D:\PythonProject\AutoTest\WebTestCases\TestLogin.py_84>>>INFO:测试通过

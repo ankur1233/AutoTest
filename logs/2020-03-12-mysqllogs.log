@@ -1,0 +1,11 @@
+2020-03-12 19:11:46,715_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_165>>>INFO:开始连接数据库：172.16.18.100:13306/gs_safety_tools,用户名：root，密码:wideal.cn
+2020-03-12 19:11:46,738_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_167>>>INFO:连接数据库成功
+2020-03-12 19:11:46,738_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_165>>>INFO:开始连接数据库：172.16.18.100:13306/gs_safety_tools,用户名：root，密码:wideal.cn
+2020-03-12 19:11:46,756_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_167>>>INFO:连接数据库成功
+2020-03-12 19:11:46,756_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_165>>>INFO:开始连接数据库：172.16.18.100:13306/gs_safety_tools,用户名：root，密码:wideal.cn
+2020-03-12 19:11:46,786_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_167>>>INFO:连接数据库成功
+2020-03-12 19:11:46,796_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_191>>>INFO:(('35kV验电器', 'GDY-Ⅱ', '验电器', '750kV兰州东变电站', '0'), ('35kV验电器', 'GDY-Ⅱ', '验电器', '750kV兰州东变电站', '0'), ('66kV验电器', 'GDY', '验电器', '750kV兰州东变电站', '0'), ('66kV验电器', 'GDY', '验电器', '750kV兰州东变电站', '0'), ('330kV验电器', 'GDY－Ⅱ－330', '验电器', '750kV兰州东变电站', '0'), ('330kV验电器', 'GDY', '验电器', '750kV兰州东变电站', '0'))
+2020-03-12 19:11:46,798_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_179>>>INFO:数据库关闭成功
+2020-03-12 19:11:46,798_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_165>>>INFO:开始连接数据库：172.16.18.100:13306/gs_safety_tools,用户名：root，密码:wideal.cn
+2020-03-12 19:11:46,810_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_167>>>INFO:连接数据库成功
+2020-03-12 19:11:46,810_2020-03-12-mysqllogs.log_D:/PythonProject/AutoTest/Common.py_179>>>INFO:数据库关闭成功

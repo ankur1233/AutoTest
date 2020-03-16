@@ -1,0 +1,5 @@
+2020-03-12 17:42:50,419_2020-03-12-Interfacelogs.log_D:\PythonProject\AutoTest\TestCasesInterface\TestInterface.py_25>>>INFO:开始
+2020-03-12 17:42:50,419_2020-03-12-Interfacelogs.log_D:\PythonProject\AutoTest\TestCasesInterface\TestInterface.py_32>>>INFO:开门接口测试开始
+2020-03-12 17:42:50,419_2020-03-12-Interfacelogs.log_D:\PythonProject\AutoTest\TestCasesInterface\TestInterface.py_33>>>INFO:url: http://192.168.8.10:9999/api/faceEvent
+2020-03-12 17:42:50,419_2020-03-12-Interfacelogs.log_D:\PythonProject\AutoTest\TestCasesInterface\TestInterface.py_34>>>INFO:data: {'deviceId': 'null', 'idcard': '622923198502010039', 'name': 'gj', 'path': '/storage/emulated/0/Android/data/com.cnksi.face/face/facePic/870902881207816192.png', 'time': 1584006170}
+2020-03-12 17:43:11,434_2020-03-12-Interfacelogs.log_D:\PythonProject\AutoTest\TestCasesInterface\TestInterface.py_39>>>ERROR:接口异常：HTTPConnectionPool(host='192.168.8.10', port=9999): Max retries exceeded with url: /api/faceEvent (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020BC6F25940>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。'))
