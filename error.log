@@ -1,0 +1,8 @@
+abva_b_v_a_b_v
+D:\PythonProject\AutoTest\TestCases\TestLogin.py_LoginTest_初始化环境失败>>>_local variable 'th' referenced before assignment
+D:\PythonProject\AutoTest\TestCases\TestLogin.py_LoginTest_初始化环境失败>>>_local variable 'th' referenced before assignment
+D:\PythonProject\AutoTest\Common.py_save_log_[WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'D:\\PythonProject\\AutoTest\\logs\\\\2020-03-07_LoginTest_testcase1_Failed'
+D:\PythonProject\AutoTest\Common.py_save_log_[WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'D:\\PythonProject\\AutoTest\\logs\\\\2020-03-07_LoginTest_testcase1_Failed'
+D:\PythonProject\AutoTest\Common.py_save_log_[WinError 5] 拒绝访问。: 'D:\\PythonProject\\AutoTest\\logs\\\\2020-03-07_LoginTest_testcase2_success'
+D:\PythonProject\AutoTest\Common.py_case_log_[Errno 22] Invalid argument: "D:\\PythonProject\\AutoTest\\logs\\2020-03-12-<module 'Interface.Interface' from 'D:\\PythonProject\\AutoTest\\Interface\\Interface.py'>logs.log"
+D:\PythonProject\AutoTest\Common.py_case_log_[Errno 22] Invalid argument: "D:\\PythonProject\\AutoTest\\logs\\2020-03-12-<module 'Interface.Interface' from 'D:\\PythonProject\\AutoTest\\Interface\\Interface.py'>logs.log"
